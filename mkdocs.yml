@@ -1,0 +1,11 @@
+
+
+# @250323-7-1932
+
+site_name: My Quake 1 Exploration
+theme:
+  name: material
+nav:
+  - Home: index.md
+
+
