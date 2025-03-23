@@ -17,4 +17,5 @@ QuakeDemy(stify)
 GNU 3.0
 
 > git@github.com:BitMiller/quakedemy.git
+
 > https://github.com/BitMiller/quakedemy.git
