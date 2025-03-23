@@ -14,16 +14,6 @@ return [
 
 ¼0&Vegyes¼ => ¼
 
-- ss@250314-5-151249
-I wrote in the dictionary app: demy
-the only find was "demystify" - it's okay to me :)
-QuakeDemy(stify)
-
-- @250315-6-0828
-> https://github.com/BitMiller/quakedemy
-GNU 3.0
-> git@github.com:BitMiller/quakedemy.git
-> https://github.com/BitMiller/quakedemy.git
 
 
 
