@@ -1,19 +1,18 @@
-name: Deploy MkDocs to GitHub Pages
+name: Deploy MkDocs
 
 on:
   push:
     branches:
-      - main  # Change this if your main branch has a different name
+      - main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup SSH key
+      - name: Set up SSH
         run: |
           mkdir -p ~/.ssh
           echo "${{ secrets.ACTIONS_DEPLOY_SSH_KEY }}" > ~/.ssh/id_ed25519
@@ -24,5 +23,8 @@ jobs:
         run: |
           pip install mkdocs mkdocs-material
 
-      - name: Deploy MkDocs
-        run: mkdocs gh-deploy --force
+      - name: Deploy to GitHub Pages
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          mkdocs gh-deploy --force --remote-branch gh-pages --remote-name origin --remote-url git@github.com:BitMiller/quakedemy.git
