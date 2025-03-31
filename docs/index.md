@@ -34,7 +34,44 @@ Resources:
 
 > [https://www.quakeworld.nu/wiki/Overview]
 
+> [https://developer.valvesoftware.com/wiki/Main_Page]
+
 > [https://developer.valvesoftware.com/wiki/Quake]
 
 > [https://developer.valvesoftware.com/wiki/Quake/For_developers]
+
+> [https://www.gamers.org/dEngine/quake/]
+
+> [https://www.gamers.org/dEngine/quake/QDP/]
+
+> [https://spawnhost.wordpress.com/2012/03/14/quake-1-lighting/]
+
+> [https://celephais.net/]
+
+> [https://celephais.net/board/forum.php]
+
+> [https://www.quakewiki.net/]
+
+> [https://www.quaddicted.com/]
+
+> [https://discuss.quaddicted.com/]
+
+> [https://www.jmeiners.com/quake-entities/]
+
+> [https://valvedev.info/tools/]
+
+> [https://gamebanana.com/tools]
+
+> [https://shoresofnis.wordpress.com/utilities/ne_q1spcompilinggui/]
+
+> [https://github.com/necros0/ne_q1CompilingGui]
+
+> [https://github.com/ericwa/ericw-tools/releases/]
+
+> [https://trenchbroom.github.io/]
+
+> [https://github.com/TrenchBroom/TrenchBroom/releases]
+
+
+
 
