@@ -4,7 +4,7 @@
 
 ## index.md created: @250323-7-1656
 
-- It's a test modification @250402-3-1546
+- It's a test modification @250402-3-1913
 
 - ss@250314-5-151249
 I wrote in the dictionary app: demy
@@ -25,6 +25,8 @@ GNU 3.0
 Resources:
 
 > [https://en.wikipedia.org/wiki/Quake_(video_game)](https://en.wikipedia.org/wiki/Quake_(video_game))
+
+<a href="https://quakewiki.org" target="_blank">https://quakewiki.org</a>
 
 > [https://quakewiki.org](https://quakewiki.org)
 
