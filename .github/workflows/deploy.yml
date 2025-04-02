@@ -27,4 +27,4 @@ jobs:
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "github-actions[bot]"
-          mkdocs gh-deploy --force --remote-branch gh-pages --remote-name origin --remote-url git@github.com:BitMiller/quakedemy.git
+          mkdocs gh-deploy --force --remote-branch gh-pages --remote-name origin
