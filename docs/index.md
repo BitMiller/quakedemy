@@ -26,7 +26,7 @@ Resources:
 
 > [https://en.wikipedia.org/wiki/Quake_(video_game)](https://en.wikipedia.org/wiki/Quake_(video_game))
 
-<a href="https://quakewiki.org" target="_blank">https://quakewiki.org</a>
+> <a href="https://quakewiki.org" target="_blank">https://quakewiki.org</a>
 
 > [https://quakewiki.org](https://quakewiki.org)
 
