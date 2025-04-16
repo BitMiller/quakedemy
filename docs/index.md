@@ -7,7 +7,7 @@
 
 ## index.md created: @250323-7-1656
 
-- Last touched @250415-2-073015
+- Last touched @250416-3-125418
 
 - ss@250314-5-151249
 I wrote in the dictionary app: demy
@@ -75,6 +75,10 @@ Resources:
 
 > <a href="https://github.com/TrenchBroom/TrenchBroom/releases" target="_blank">https://github.com/TrenchBroom/TrenchBroom/releases</a>
 
+> <a href="https://www.eecis.udel.edu/~portnoi/quake/quakecom.html" target="_blank">https://www.eecis.udel.edu/~portnoi/quake/quakecom.html</a>
+
+> <a href="https://quakeone.com/forum/quake-help/general-help/1054" target="_blank">https://quakeone.com/forum/quake-help/general-help/1054</a>
+
 
 ## Only Axe Runs:
 
@@ -107,7 +111,6 @@ Resources:
 > <a href="https://www.youtube.com/watch?v=y-JL001hGsw" target="_blank">https://www.youtube.com/watch?v=y-JL001hGsw</a>
 
 > <a href="https://www.youtube.com/watch?v=zLzHVNn0gMI" target="_blank">https://www.youtube.com/watch?v=zLzHVNn0gMI</a>
-
 
 [//]: # ( > <a href="" target="_blank"></a> )
 
