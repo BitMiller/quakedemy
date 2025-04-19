@@ -7,7 +7,7 @@
 
 ## index.md created: @250323-7-1656
 
-- Last touched @250416-3-125418
+- Last touched @250419-6-081240
 
 - ss@250314-5-151249
 I wrote in the dictionary app: demy
@@ -78,6 +78,8 @@ Resources:
 > <a href="https://www.eecis.udel.edu/~portnoi/quake/quakecom.html" target="_blank">https://www.eecis.udel.edu/~portnoi/quake/quakecom.html</a>
 
 > <a href="https://quakeone.com/forum/quake-help/general-help/1054" target="_blank">https://quakeone.com/forum/quake-help/general-help/1054</a>
+
+> <a href="https://www.bspquakeeditor.com/q1tutor/q_train.html" target="_blank">https://www.bspquakeeditor.com/q1tutor/q_train.html</a>
 
 
 ## Only Axe Runs:
