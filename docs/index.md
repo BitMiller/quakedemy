@@ -7,7 +7,7 @@
 
 ## index.md created: @250323-7-1656
 
-- Last touched @250531-6-115452
+- Last touched @250601-7-120719
 
 - ss@250314-5-151249
 I wrote in the dictionary app: demy
